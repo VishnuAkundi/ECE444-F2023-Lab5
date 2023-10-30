@@ -5,6 +5,8 @@ This repo follows the following link: https://github.com/mjhea0/flaskr-tdd
 Link to test_api.py is [here](https://github.com/ECE444-2023Fall/project-1-web-application-design-group22-premium-potatoes/blob/feat/event_registration/api/utils/unit_tests/test_api.py)
 
 I worked on the populate_db and test_search functions. I added an extra db entry in populate_db and tested both filters and search queries in test_search.
+Link to test_search function [here](https://github.com/ECE444-2023Fall/project-1-web-application-design-group22-premium-potatoes/blob/7182dc939f2d05aa813027d2212581b32fb2bc0c/api/utils/unit_tests/test_api.py#L76-L87)
+Link to populate_db function part [here](https://github.com/ECE444-2023Fall/project-1-web-application-design-group22-premium-potatoes/blob/7182dc939f2d05aa813027d2212581b32fb2bc0c/api/utils/unit_tests/test_api.py#L40-L49)
 
 
 ## Pro's and Con's of TDD
